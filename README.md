@@ -1,1 +1,2 @@
-# MCQ_PROJECT_GENAI
+# ## MCQ_PROJECT_GENAI
+conda 
